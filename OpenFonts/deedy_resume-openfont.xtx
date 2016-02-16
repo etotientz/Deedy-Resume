@@ -7,7 +7,7 @@
 % Satrap Rathore (https://in.linkedin.com/in/satrap-rathore-27883710a)
 %
 % Original repository:
-% https://github.com/deedydas/Deedy-Resume
+% https://github.com/etotientz/Deedy-Resume
 %
 % IMPORTANT: THIS TEMPLATE NEEDS TO BE COMPILED WITH XeLaTeX
 %
@@ -65,8 +65,8 @@
 %     TITLE NAME
 %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\namesection{Debarghya}{Das}{ \urlstyle{same}\href{http://debarghyadas.com}{debarghyadas.com}| \href{http://fb.co/dd}{fb.co/dd}\\
-\href{mailto:deedy@fb.com}{deedy@fb.com} | 607.379.5733 | \href{mailto:dd367@cornell.edu}{dd367@cornell.edu}
+\namesection{Satrap}{Rathore}{ \urlstyle{same}\href{https://www.facebook.com/satraprathore}{satraprathore@fb}| \href{http://fb.co/dd}{fb.co/dd}\\
+\href{mailto:deedy@fb.com}{deedy@fb.com}
 }
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
